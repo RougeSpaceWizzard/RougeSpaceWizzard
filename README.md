@@ -25,20 +25,13 @@
 <br><br/>
 
 ### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,html,css,react&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,html,css,react,go,vuejs&theme=dark)](https://skillicons.dev)
 *I know that CSS and HTML are not really "Programming Languages"*
 
 ### Software
-[![My Skills](https://skillicons.dev/icons?i=blender,discord,figma,github,gitlab,vscode,idea&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=blender,discord,figma,docker,github,gitlab,vscode,idea,git&theme=dark)](https://skillicons.dev)
 
 <br/>
-
-# 💖 Support me
-If you think my Projects have helped you, you can go a step further and buy me a Coffee:
-
-<a href="https://ko-fi.com/rougespacewizzard" rel="some text"><img src="https://media.giphy.com/media/RwEaPGAHOk19tUCfdP/giphy.gif" width="100"/></a>
-
-To support my projects directly, feel free to open issues or suggestions, or contribute with a pull request!
 
 <details>
   
